@@ -1,0 +1,18 @@
+html{
+    background-color: rgba(96, 157, 192, 0.774);
+    height:100%;
+    background: linear-gradient(rgba(96, 157, 192, 0.774), rgb(252, 245, 245));
+    font-family: system-ui, Arial, sans-serif;
+}
+#borrar{
+    color:red;
+}
+#modificar{
+    color:rgb(11, 135, 218);
+}
+table{
+    border: 3px solid;
+}
+table td{
+    border: 3px solid;
+}
